@@ -137,6 +137,7 @@ doc = <<-EOF
   <head>
     <title>Virtual Library</title>
     <style type="text/css">
+    body { background: pink; }
 #{css}
     </style>
   </head>
